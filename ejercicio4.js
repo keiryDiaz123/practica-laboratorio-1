@@ -1,6 +1,6 @@
 let numero = 40;
 numero+=5
-console.log(`su valo es : ${numero}`);  
+console.log(`su valor es : ${numero}`);  
 
 numero-=5
 console.log(`su valo es : ${numero}`);
