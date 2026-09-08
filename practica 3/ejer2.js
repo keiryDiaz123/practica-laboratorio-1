@@ -5,7 +5,7 @@
 
 const readline = requiere('readline');
 
-cont kd = readline.createIerface({
+const kd = readline.createIerface({
     input:process.stidin,
     output:process.stdout
 
